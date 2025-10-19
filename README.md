@@ -21,6 +21,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating awes
 
 ## 🌟 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatuMaKa&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatuMaKa&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatuMaKa&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=MatuMaKa&color=radical)
 
 ---
 
