@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating awes
 ---
 
 ## 🌟 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatuMaKa&show_icons=true&theme=radical)
 
 ---
 
