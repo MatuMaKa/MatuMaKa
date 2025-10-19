@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm MatuMaKa!
+Welcome to my GitHub profile! I'm a passionate developer who loves creating awesome projects and breaking things until they work somehow 😅.
 
-<!--
-**MatuMaKa/MatuMaKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 About Me
+- 🔭 I’m currently working on **BerryPvP**
+- 🌱 I’m learning **Python, Java & JavaScript**
+- ⏰ I'm 14 **years old**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## 🌟 GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+✨ Thanks for visiting my profile! Feel free to explore my repositories and leave a ⭐ if you like my work.
