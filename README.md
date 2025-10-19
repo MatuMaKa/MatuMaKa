@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves creating awes
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to explore my repositories and leave a ⭐ if you like my work. \
+✨ Thanks for visiting my profile! Feel free to explore my repositories and leave a ⭐ if you like my work.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MatuMaKa&color=green)
