@@ -1,31 +1,35 @@
-# 👋 Hi there, I'm MatuMaKa!
-Welcome to my GitHub profile! I'm a passionate developer who loves creating awesome projects and breaking things until they work somehow 😅.
+# 👋 Hey, I'm MatuMaKa!
+I'm a backend developer from Estonia who enjoys creating Minecraft servers, plugins, and many more interesting stuff.
 
 ---
 
 ## 💻 About Me
-- 🔭 I’m currently working on **BerryPvP**
-- 🌱 I’m learning **Python, Java & JavaScript**
-- ⏰ I'm 15 **years old**
+- I'm 15 years old
+- Minecraft server developer
+- Learning Java & Python
+- Experienced with Skript
 
 ---
 
-## 🛠️ Skills
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+## 🛠️ Skills/Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Java](https://camo.githubusercontent.com/bea90da226e09b503e6c8fde824f4816b98dcf30cd31e803006bf6335af06890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465)
-![Node.js](https://camo.githubusercontent.com/8477a50d7210f0f3bf15fbe5b44809296b75f2101a2927818599d72c8ea72cef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Skript](https://img.shields.io/badge/Skript-6E40C9?style=for-the-badge)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MatuMaKa&layout=compact&theme=radical)
 
 ---
 
 ## 🌟 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatuMaKa&show_icons=true&theme=radical)
+![MatuMaKa's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MatuMaKa&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatuMaKa&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatuMaKa&layout=compact&theme=radical)
-
----
-
-✨ Thanks for visiting my profile! Feel free to explore my repositories and leave a ⭐ if you like my work.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MatuMaKa&color=green)
