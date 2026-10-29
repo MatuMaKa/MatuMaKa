@@ -24,12 +24,12 @@ I'm a backend developer from Estonia who enjoys creating Minecraft servers, plug
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MatuMaKa&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=MatuMaKa&layout=compact&theme=radical)
 
 ---
 
 ## 🌟 GitHub Stats
-![MatuMaKa's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MatuMaKa&show_icons=true&theme=radical)
+![MatuMaKa's GitHub Stats](https://github-stats-extended.vercel.app/api?username=MatuMaKa&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatuMaKa&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MatuMaKa&color=green)
