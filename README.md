@@ -4,6 +4,8 @@ I'm a backend developer from Estonia who enjoys creating Minecraft servers, plug
 Additionally, I'm a prompt engineer :v:
 I love creating things that interest me, like my own coding language, libraries, and every day tools that help me manage my time.
 
+Make sure to visit my [site](https://www.matumaka.com/) or [github repositories](https://github.com/MatuMaKa?tab=repositories) to see some projects I've built/working on.
+
 ---
 
 ## 💻 About Me
